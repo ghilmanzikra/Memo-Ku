@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "105950170216",
+    "project_id": "memo-ku",
+    "storage_bucket": "memo-ku.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105950170216:android:a27d717ae2b742f2283fdd",
+        "android_client_info": {
+          "package_name": "com.example.memo_ku"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb6dVipBQYmDq7s5RLyCDOxQ6zkfmcLhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
